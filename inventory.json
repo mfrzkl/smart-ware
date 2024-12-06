@@ -1,0 +1,52 @@
+{
+    "inventory": [
+        {
+            "id": 1,
+            "nama": "Laptop XYZ",
+            "harga": 15000000,
+            "satuan": "unit",
+            "jumlah_stok": 50,
+            "berat": 2.5,
+            "dimensi": "35x25x2 cm",
+            "kategori": "Elektronik",
+            "status": "Tersedia",
+            "tanggal_masuk": "2024-11-15",
+            "tanggal_kadaluarsa": null,
+            "barcode": "LAP123XYZ",
+            "warehouse_id": 1,
+            "lokasi_dalam_gudang": "Rak A1-1"
+        },
+        {
+            "id": 2,
+            "nama": "Smartphone ABC",
+            "harga": 7000000,
+            "satuan": "unit",
+            "jumlah_stok": 120,
+            "berat": 0.3,
+            "dimensi": "15x7x1 cm",
+            "kategori": "Elektronik",
+            "status": "Tersedia",
+            "tanggal_masuk": "2024-11-20",
+            "tanggal_kadaluarsa": null,
+            "barcode": "SMP456ABC",
+            "warehouse_id": 2,
+            "lokasi_dalam_gudang": "Rak B2-4"
+        },
+        {
+            "id": 3,
+            "nama": "Minuman Kaleng",
+            "harga": 12000,
+            "satuan": "kaleng",
+            "jumlah_stok": 300,
+            "berat": 0.33,
+            "dimensi": "10x10x15 cm",
+            "kategori": "Makanan & Minuman",
+            "status": "Tersedia",
+            "tanggal_masuk": "2024-11-25",
+            "tanggal_kadaluarsa": "2025-05-25",
+            "barcode": "MNK789DEF",
+            "warehouse_id": 3,
+            "lokasi_dalam_gudang": "Rak C3-2"
+        }
+    ]
+}

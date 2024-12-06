@@ -1,0 +1,28 @@
+{
+    "warehouses": [
+        {
+            "id": 1,
+            "nama": "Gudang Utama Jakarta",
+            "lokasi": "Jl. Sudirman No. 45, Jakarta Pusat",
+            "kapasitas": 1000,
+            "kapasitas_digunakan": 700,
+            "keterangan": "Gudang pusat untuk distribusi wilayah Jabodetabek."
+        },
+        {
+            "id": 2,
+            "nama": "Gudang Bandung Barat",
+            "lokasi": "Jl. Pasteur No. 88, Bandung",
+            "kapasitas": 800,
+            "kapasitas_digunakan": 500,
+            "keterangan": "Gudang penyimpanan dan transit wilayah Jawa Barat."
+        },
+        {
+            "id": 3,
+            "nama": "Gudang Surabaya Timur",
+            "lokasi": "Jl. Pemuda No. 10, Surabaya",
+            "kapasitas": 600,
+            "kapasitas_digunakan": 400,
+            "keterangan": "Gudang distribusi utama untuk wilayah Jawa Timur."
+        }
+    ]
+}
