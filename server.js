@@ -25,7 +25,7 @@ const apiLimiter = rateLimit({
 app.use('/api/auth', authRoutes);
 
 // Terapkan rate limit pada endpoint
-app.use('/inventory', apiLimiter)
+app.use('/warehouses', apiLimiter)
 
 app.use(bodyParser.json());
 
